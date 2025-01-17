@@ -1,0 +1,1 @@
+var json_MAPBY_0 = {"type":"FeatureCollection","name":"MAPBY_0","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","NAME":"MAP By - Prof. Dr. SAMEER A. BUTALA"},"geometry":{"type":"Point","coordinates":[74.662357152277664,17.768420858676791]}}]}
